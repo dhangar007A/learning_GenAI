@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environments
+.env
+.venv/
+.python-version
+
+# Tooling and app state
+.streamlit/
+.tmp/
+*.log
+
+# Local vector stores
+chroma_db/
